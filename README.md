@@ -65,7 +65,7 @@
   Repo: https://github.com/goraan03/Portofolio
 
 - ERS Team Project — C#
-  Console simulation of MOBA Game.
+  Console simulation of MOBA Game.  
   Repo: https://github.com/goraan03/ers_E03_tim_3
 
 ---
