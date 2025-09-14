@@ -64,11 +64,8 @@
   Personal portfolio website.  
   Repo: https://github.com/goraan03/Portofolio
 
-- OOT project — C#  
-  Course project from Object-Oriented Technologies.  
-  Repo: https://github.com/goraan03/ficadjole/OOT_projekat
-
-- ERS Team Project — C#  
+- ERS Team Project — C#
+  Console simulation of MOBA Game.
   Repo: https://github.com/goraan03/ers_E03_tim_3
 
 ---
