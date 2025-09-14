@@ -57,8 +57,8 @@
 ## 🚀 Featured Projects
 - FitTrack App — TypeScript  
   Fitness tracking web application. Authentication, progress tracking, and clean UI.  
-  Tech: TypeScript, React, Tailwind CSS, (Node.js/MySQL — if applicable)  
-  Live demo: coming soon • Repo: https://github.com/goraan03/FitTrack-App
+  Tech: TypeScript, React, Tailwind CSS, Node.js, MySQL  
+  Repo: https://github.com/goraan03/FitTrack-App
 
 - Portfolio — React + Tailwind CSS  
   Personal portfolio website.  
