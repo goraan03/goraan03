@@ -1,6 +1,6 @@
 <h1 align="center">Goran Grcic</h1>
 <p align="center">
-  3rd-year Applied Software Engineering student at Faculty of Technical Sciences (FTN), Novi Sad<br/>
+  4th-year Applied Software Engineering student at Faculty of Technical Sciences (FTN), Novi Sad<br/>
   I enjoy building clean UIs and solid backends. Open to internships or junior roles — frontend, backend, or full‑stack.
 </p>
 
