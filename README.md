@@ -83,4 +83,4 @@
 
 ## 🎯 Currently
 - learning: deeper TypeScript patterns, React ecosystem, Node.js best practices
-- open to: internships or junior roles (frontend, backend, or full‑stack)
+- open to: internships or junior roles (backend or full‑stack)
