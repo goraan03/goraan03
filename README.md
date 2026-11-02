@@ -61,12 +61,12 @@
   Repo: https://github.com/goraan03/FitTrack-App
 
 - JARVIS AI  
-  Personal AI for business management - Typescript
-  Repo: https://github.com/goraan03/Jarvis-AI
+  Personal AI for business management - Typescript  
+  Repo: https://github.com/goraan03/Jarvis-AI  
 
-- BMS Boxing Management System - Typescript
-  Full management system for Boxing Clubs.
-  Repo: https://github.com/goraan03/Boxing-Management-Software
+- BMS Boxing Management System - Typescript  
+  Full management system for Boxing Clubs.  
+  Repo: https://github.com/goraan03/Boxing-Management-Software  
 
 ---
 
