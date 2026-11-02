@@ -60,13 +60,13 @@
   Tech: TypeScript, React, Tailwind CSS, Node.js, MySQL  
   Repo: https://github.com/goraan03/FitTrack-App
 
-- Portfolio — React + Tailwind CSS  
-  Personal portfolio website.  
-  Repo: https://github.com/goraan03/Portofolio
+- JARVIS AI  
+  Personal AI for business management - Typescript
+  Repo: https://github.com/goraan03/Jarvis-AI
 
-- ERS Team Project — C#
-  Console simulation of MOBA Game.  
-  Repo: https://github.com/goraan03/ers_E03_tim_3
+- BMS Boxing Management System - Typescript
+  Full management system for Boxing Clubs.
+  Repo: https://github.com/goraan03/Boxing-Management-Software
 
 ---
 
